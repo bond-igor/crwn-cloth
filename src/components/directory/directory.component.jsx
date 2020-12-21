@@ -37,7 +37,7 @@ export class Directory extends Component {
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://i.pinimg.com/originals/db/c6/f0/dbc6f02f46c0284d38469c030fe3284b.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens',
